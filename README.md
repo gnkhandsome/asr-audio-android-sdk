@@ -12,10 +12,10 @@ allprojects {
 ```
 增加以下依赖：
 ```
-implementation 'com.github.sogouspeech:common-android-sdk:0.2'
+implementation 'com.github.sogouspeech:common-android-sdk:1.0.0'
 ```
 ```
-implementation 'com.github.sogouspeech:asr-audio-android-sdk:0.2'
+implementation 'com.github.sogouspeech:asr-audio-android-sdk:1.0.0'
 ```
 
 使用方法请参考[搜狗知音文档](https://docs.zhiyin.sogou.com/docs/asr/sdk)
